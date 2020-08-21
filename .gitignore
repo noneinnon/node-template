@@ -1,0 +1,19 @@
+# Node
+node_modules/
+package-lock.json
+
+# Build
+dist/
+
+# IDE
+.idea/
+schema.graphql
+.graphqlconfig
+
+# ENV
+.env
+
+# etc
+.eslintcache
+.DS_Store
+.npm
